@@ -35,5 +35,3 @@ jobs:
           tags: ghcr.io/stefanlobbenmeier/mongo
           platforms: |
             linux/arm/v7
-            linux/amd64
-            linux/arm64
